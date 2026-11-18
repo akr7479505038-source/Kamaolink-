@@ -1,0 +1,17 @@
+{
+  "name": "Kamaolink",
+  "short_name": "Kamaolink",
+  "description": "Kamaolink (Kamao Link) — Shorten links and earn INR per verified India view.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#facc15",
+  "icons": [
+    {
+      "src": "/assets/aistudio/IMG-20261118-WA3662_544ab66e.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
